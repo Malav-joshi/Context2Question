@@ -46,7 +46,7 @@ Each sample consists of:
 
 
 
-📈 Results
+### 📈 Results
 === SAMPLE 0 ===
 Context (truncated): Super Bowl 50 was an American football game to determine the champion of the National Football League (NFL) for the 2015 season. The American Football Conference (AFC) champion Denver Broncos defeated ...
 Answer: Denver Broncos
@@ -65,7 +65,7 @@ Answer: Santa Clara, California
 True Question: Where did Super Bowl 50 take place?
 Generated: Where is the Levi's Stadium located?
 
-🔮 Future Enhancements
+### 🔮 Future Enhancements
 Build an API (Flask/FastAPI)
 
 Upgrade model to T5/BART
@@ -76,7 +76,7 @@ Support multilingual question generation
 
 Add a UI for interactive use
 
-📜 License
+### 📜 License
 This project is available for educational and research purposes.
 
 
